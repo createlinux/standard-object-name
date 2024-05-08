@@ -35,8 +35,8 @@ function to_standard_object_name(string $objectName)
 
 /**
  *
- * 目标字符串
- * @param string $targetString
+ *  转换为蛇形复数
+ * @param string $targetString 目标字符串
  * @return string
  */
 function to_snake_plural(string $targetString)
